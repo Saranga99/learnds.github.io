@@ -1,2 +1,2 @@
-# learnds.github.io
-connecting all learning resources to data science / machine learning
+# Learn Data Science From Scratch 
+Data Science | Machine Learning | AI 
